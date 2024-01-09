@@ -25,3 +25,13 @@ void loop() {
   //Wait for a bit to keep serial data from saturating
   delay(1);
 }
+
+//Participants of Project are from the department of biomedical engineering at University of Ghana. Their names are below
+ NAYA JAMES MBABILA
+ANTWI JESSICA
+JESSICA KONADU OPPONG
+ASARE JOSEPH
+AGYAPONG SAMUEL BAFFOUR
+ROWLAND ARTHUR
+
+
